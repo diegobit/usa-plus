@@ -22,7 +22,7 @@ eg.
 ù   OPTION+u
 ```
 
-Made with [ukelele](https://software.sil.org/ukelele/)
+Made with [ukelele](https://software.sil.org/ukelele/).
 
 ## Install
 
