@@ -21,6 +21,8 @@ This is USA layout but you can type accented characters with `OPTION+vocal`:
 ù   OPTION+u
 ```
 
+Upper case characters can be typed by adding `SHIFT`, eg. `OPTION+SHIFT+e = È`.
+
 Made with [ukelele](https://software.sil.org/ukelele/).
 
 ## Install
