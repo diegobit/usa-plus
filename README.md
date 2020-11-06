@@ -10,9 +10,8 @@ Meet the USA PLUS layout.
 
 ## Description
 
-This is USA layout but you can type accented characters with OPTION+vocal
+This is USA layout but you can type accented characters with `OPTION+vocal`:
 
-eg.
 ```
 à   OPTION+a
 è   OPTION+e
@@ -36,4 +35,4 @@ Copy the file `.bundle` inside `/Library/Keyboard Layouts/`, then log out and lo
 
 ## To contribute
 
-Feel free to open a pull request
+Feel free to open a pull request.
