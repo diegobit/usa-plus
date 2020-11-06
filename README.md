@@ -10,7 +10,7 @@ Meet the USA PLUS layout.
 
 ## Description
 
-This is USA layout but you can type accented characters with `OPTION+vocal`:
+This is USA layout but you can type accented characters with <kbd>OPTION</kbd>+`vocal`:
 
 ```
 à   OPTION+a
@@ -21,7 +21,7 @@ This is USA layout but you can type accented characters with `OPTION+vocal`:
 ù   OPTION+u
 ```
 
-Upper case characters can be typed by adding `SHIFT`, eg. `OPTION+SHIFT+e = È`.
+Upper case characters can be typed by adding <kbd>SHIFT</kbd>, eg. <kbd>OPTION</kbd>+<kbd>SHIFT</kbd>+<kbd>e</kbd> = `È`.
 
 Made with [ukelele](https://software.sil.org/ukelele/).
 
@@ -32,7 +32,7 @@ Copy the file `.bundle` inside `/Library/Keyboard Layouts/`, then log out and lo
 ## Future work
 
 - add other accented characters
-- add euro €
+- add euro `€`
 - make for windows
 
 ## To contribute
