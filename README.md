@@ -37,4 +37,4 @@ Copy the file `.bundle` inside `/Library/Keyboard Layouts/`, then log out and lo
 
 ## To contribute
 
-Feel free to open a pull request.
+Feel free to open an issue or pull request.
