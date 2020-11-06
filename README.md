@@ -26,7 +26,7 @@ Made with [ukelele](https://software.sil.org/ukelele/).
 
 ## Install
 
-Copy the file inside `/Library/Keyboard Layouts/`, then log out and log in.
+Copy the file `.bundle` inside `/Library/Keyboard Layouts/`, then log out and log in.
 
 ## Future work
 
