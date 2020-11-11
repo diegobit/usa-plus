@@ -27,7 +27,7 @@ Upper case characters can be typed by adding <kbd>SHIFT</kbd>, eg. <kbd>OPTION</
 
 #### Special characters
 
-The character <kbd>€</kbd> has been moved to <kbd>OPTION</kbd>+<kbd>2</kbd>.
+The character <kbd>€</kbd> has been moved to <kbd>OPTION</kbd>+<kbd>4</kbd>.
 
 ## Install
 
